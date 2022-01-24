@@ -1,0 +1,1 @@
+# Read_Text_From_Image_File
